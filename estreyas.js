@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+/*document.addEventListener("DOMContentLoaded", function() {
     const decorBg = document.querySelector('.decor-bg');
     
     for (let i = 0; i < 50; i++) {
@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function() {
       decorBg.appendChild(star);
     }
   });
-
+*/
 
 
 

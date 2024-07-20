@@ -362,6 +362,42 @@ const userName = `Vasya`;
 
 
 
+// ! МЕТОДИ ............................................................................................
+
+/** МЕТОДИ РЯДКІВ
+ * - slice (обрізання рядків)
+ * - toLowerCase/toUpperCace
+ * - includes
+ * - startsWith/endsWith
+ * - indexOf
+ * - trim
+ */
+
+
+// TODO: slice
+const username = `userName`;
+ /*const copy 2 = username.slice(1, 7);
+ const copy 2 = username.slice(4);
+ const copy 2 = username.slice(0, 4);
+ const copy 2 = username.slice();
+ */
+ const copy = username.slice(1, username.length - 1);
+
+ console.log(username);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
